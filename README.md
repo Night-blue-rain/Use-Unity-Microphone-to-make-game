@@ -1,5 +1,5 @@
 # Game_Dont-Stop-Yell
-This repository will show you the basal scripts of a very interesting game, which is very hot several years ago.  
-The game is a creative game,you must push your player to move by your voice.It is made by Unity,and my script is for Unity too.  
-the script can detect your voice volumn,and control your player to move when your voice is big enough.  
+This repository features basic scripts for a highly engaging game that gained significant popularity a few years back.  
+
+It's a creative title where players control their in-game character through voice commands – specifically, by adjusting their voice volume. Developed with Unity, these scripts are designed for Unity projects, enabling voice volume detection and triggering character movement when the volume reaches a sufficient level.  
 ![image](https://github.com/user-attachments/assets/ddbfd1f5-ebec-4e9f-9ad9-60452465c1d3)
